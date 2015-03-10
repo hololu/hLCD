@@ -1,0 +1,23 @@
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\bin\Debug\hLCD.exe
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\bin\Debug\hLCD.pdb
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\obj\x86\Debug\hLCD.Form1.resources
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\obj\x86\Debug\hLCD.Properties.Resources.resources
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\obj\x86\Debug\hLCD.csproj.GenerateResource.Cache
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\obj\x86\Debug\hLCD.exe
+C:\Users\hOLOlu\AppData\Local\Temporary Projects\hLCD\obj\x86\Debug\hLCD.pdb
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.exe
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.pdb
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\bin\Debug\hLCD.exe
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\bin\Debug\hLCD.pdb
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.Form1.resources
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.Properties.Resources.resources
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.csproj.GenerateResource.Cache
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.exe
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.pdb
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.Form1.resources
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.Properties.Resources.resources
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\obj\x86\Debug\hLCD.csproj.GenerateResource.Cache
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\bin\Debug\hLCD.exe
+D:\Belgelerim\Visual Studio 2010\Projects\hLCD\hLCD\bin\Debug\hLCD.pdb

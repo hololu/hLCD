@@ -1,0 +1,4 @@
+D:\Calismalar\C#\TestOutlineText\TextDesignerCSLibrary\bin\Debug\TextDesignerCSLibrary.dll
+D:\Calismalar\C#\TestOutlineText\TextDesignerCSLibrary\bin\Debug\TextDesignerCSLibrary.pdb
+D:\Calismalar\C#\TestOutlineText\TextDesignerCSLibrary\obj\Debug\TextDesignerCSLibrary.dll
+D:\Calismalar\C#\TestOutlineText\TextDesignerCSLibrary\obj\Debug\TextDesignerCSLibrary.pdb

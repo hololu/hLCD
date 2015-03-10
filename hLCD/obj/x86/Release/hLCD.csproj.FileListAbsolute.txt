@@ -1,0 +1,7 @@
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\bin\Release\hLCD.exe
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\bin\Release\hLCD.pdb
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Release\hLCD.Form1.resources
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Release\hLCD.Properties.Resources.resources
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Release\hLCD.csproj.GenerateResource.Cache
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Release\hLCD.exe
+C:\Users\hOLOlu\documents\visual studio 2010\Projects\hLCD\hLCD\obj\x86\Release\hLCD.pdb
